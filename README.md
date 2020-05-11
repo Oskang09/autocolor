@@ -37,3 +37,7 @@ This extension contributes the following settings:
 ### 1.0.0
 
 Initial release of autocolor. Currently will only support HEX to RGBO and ARGB in `Dart`. 
+
+### 1.0.1
+
+[FIX] (DART) Typo `Colors.RGB0` instead of  `Color.fromRGBO`
