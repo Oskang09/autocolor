@@ -1,9 +1,12 @@
 {
 	"name": "autocolor",
-	"displayName": "autocolor",
+	"displayName": "AutoColor",
 	"description": "Convert color code to proper syntax based on different languages",
-	"version": "0.0.1",
-	"publisher": "Oskang09",
+	"version": "1.0.0",
+	"publisher": "developeroskang",
+	"repository": {
+		"url": "https://github.com/Oskang09/autocolor"
+	},
 	"engines": {
 		"vscode": "^1.32.0"
 	},
