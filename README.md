@@ -18,8 +18,8 @@ For colorcode will only transform when it's in format. Currently will only trans
 In `dart` will be able to transform into ARGB or RGBO syntax.
 
 ```
-#ffffff => Colors.fromRGBO(255, 255, 255, 1)
-#fffff  => Colors.fromARGB(255, 255, 255, 255) 
+#ffffff  => Colors.fromRGBO(255, 255, 255, 1)
+#ffffff  => Colors.fromARGB(255, 255, 255, 255)
 ```
 
 ## Requirements
